@@ -48,13 +48,6 @@ The dashboard was built using the following tools and technologies:
 • 🧠 DAX (Data Analysis Expressions) – Used to calculate measures such as attrition rate, employee counts, and workforce risk indicators.
 
 
-File formats used:
-
-• .pbix – Power BI dashboard file
-• .csv – Employee workforce dataset
-• .png – Dashboard preview screenshots
-
-
 
 # 📂 Data Source & Overview
 

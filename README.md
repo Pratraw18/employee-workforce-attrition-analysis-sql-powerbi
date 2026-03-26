@@ -213,7 +213,7 @@ Reduces stress-related resignations and improves workforce stability.
 # Links
 ## 🔗 Live Dashboard
 
-📊 [Live Dashboard]([https://app.powerbi.com/view?r=your-link](https://app.powerbi.com/links/2P1-Y3coV0?ctid=ec1555de-9f00-4459-9007-514764470207&pbi_source=linkShare))
+📊[Live Dashboard](https://app.powerbi.com/links/2P1-Y3coV0?ctid=ec1555de-9f00-4459-9007-514764470207&pbi_source=linkShare)
 
 
 
